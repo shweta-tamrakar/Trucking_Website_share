@@ -1,0 +1,392 @@
+
+.sec_head {
+   background: url(../img/furni_bg1.jpg);
+   
+   background-size:cover;
+   height: 600px;
+   background-repeat:no-repeat;
+   color: #fff;
+   
+}
+
+.sec_head .c1 {
+   background: rgba(0, 0, 0, 0.404);
+   padding: 40px;
+   border-radius: 5px;
+}
+
+.sec_head .bg-light {
+   border-radius: 5px;
+   background: rgba(168, 31, 31, 0.623);
+}
+
+
+.sec_a .c1 {
+
+   background: url(../img/schoolmap_01.jpg);
+   background-size: contain;
+   height: 400px;
+   background-repeat: no-repeat;
+}
+
+.sec_a .c1 {
+  padding: 0px;
+  }
+
+.sec_a .c2 {
+
+
+backdrop-filter:blur(1px);
+height: 100%;
+padding: 50px;
+
+
+}
+
+.sec_a .c1 {
+  padding: 60px;
+  padding-right: 400px;
+}
+
+.sec_a .c2 {
+   background: url(../img/banner-1.jpg);
+   background-size: cover;
+   width:380px;
+}
+
+
+
+.sec_a h3 {
+   color: rgb(255, 255, 255);
+   font-weight: 900;
+    transform: rotate(-90deg);
+    position: absolute;
+    margin-top: 80px;
+    font-size: 22px;    
+}
+
+.sec_a img {
+   position: absolute;
+   height: 200px;
+   margin-left: 145px;
+   margin-top: -10px;  
+   backdrop-filter: brightness(.5);
+   padding: 20px; 
+}
+
+.sec_a .c5{
+   margin-top: 131px;
+   
+}
+
+.sec_a .c6 {
+   padding: 50px;
+}
+
+.sec_a .r7 {
+   background: url(../img/bg_sofa.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   color: #fff;
+   background-position: bottom;
+}
+
+.sec_a .c7 {
+   padding: 50px;
+   background: #5b5a486e;
+}
+
+.sec_a .c8 {  
+   background: #3f3e29f5;
+}
+
+
+.sec_b {
+   position: absolute; 
+   margin-top: -100px; 
+   width: 100%;
+}
+
+
+.sec_b .c1{   
+   background: url(../img/hotelroom_1.jpg);  
+   transition: all 5s;  
+    
+}
+
+.sec_b .c2 {
+   background: url(../img/hotelroom_2.jpg);
+   transition: all 5s; 
+}
+
+.sec_b .c3 {
+   background: url(../img/hotelroom_3.jpg);
+   transition: all 5s; 
+}
+
+
+.sec_b .c1a {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 2px solid rgb(66, 68, 70);
+    box-shadow: 2px 4px 6px gray;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.sec_b .c1:hover {
+   cursor: pointer;
+   transform: scale(2);
+   transition: all 2s;
+}
+
+.sec_b .c2:hover {
+   cursor: pointer;
+   transform: scale(2);
+   transition: all 2s;
+}
+
+.sec_b .c3:hover {
+   cursor: pointer;
+   transform: scale(2);
+   transition: all 2s;
+}
+
+
+
+.sec_c .c1{
+   background: url(../img/hotelroom_1.jpg);
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+.sec_c .c2{
+   background: url(../img/hotelroom_2.jpg);
+   background-position: center;
+   background-size: cover;   
+   background-repeat: no-repeat;
+}
+
+.sec_c .c3{
+   background: url(../img/hotelroom_3.jpg);
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+.sec_c h2{
+   color: #fff;
+   font-weight: 500;
+   font-size: x-large;
+}
+
+.sec_c p{
+   color: #fff;   
+}
+
+.sec_c #id1{
+   font-size: 50px;
+   color: #FFF;
+}
+
+.sec_c .col-4 {
+   padding: 0px;
+}
+
+.sec_c .dark {
+   background: rgba(0, 0, 0, 0.404);
+   height: 100%;
+   padding: 50px;
+   text-align: right;
+}
+
+.sec_d {
+   margin-top: 50px;
+   
+}
+
+.sec_d h1{
+   color: #F7F7F7;
+    font-size: 4.5rem;
+
+}
+
+.sec_d h3{
+   margin-top: -60px;
+   margin-left: 6px;
+   font-weight: 700;
+}
+
+.sec_d .c2{
+   background: url(../img/photo1.jpg);
+   height: 900px;
+}
+
+.sec_e .c1{
+  background:#5B5A48;
+  height: 200px;
+ }
+
+ .sec_e button{
+   margin-left: 586px;
+    margin-top: 85px;
+    
+ }
+
+ .sec_f h1{
+   color: #F7F7F7;
+    font-size: 4.5rem;
+    text-align: right;
+
+}
+
+.sec_f h3{
+   margin-top: -60px;
+   margin-left: 6px;
+   font-weight: 700;
+   text-align: right;
+}
+
+.sec_f p{
+   text-align: right;
+}
+
+.sec_f .c2{
+   background: url(../img/photo2.jpg);
+   height: 400px;
+   margin-top: 40px;
+}
+
+.sec_g{
+   margin-top: 60px;
+   background: #F8F8F8;
+   height: 200px;
+}
+
+.sec_h .row {
+   margin-top: 50px;
+   margin-bottom: 50px;
+   padding-left: 50px;
+   padding-right: 50px;
+}
+
+.sec_h .c1 {
+   color: gray;  
+   margin-bottom: 50px;
+}
+
+/* .sec_h .c1 h4{
+   color: rgba(233, 229, 23, 0.274); 
+   position: absolute;
+   font-size: 60px;
+   margin-top: -65px;
+   width: 400px;
+   z-index: -1;
+} */
+
+.sec_h .c2 {
+   height: 300px; 
+   background: url(../img/bg_sofa.jpg);   
+   margin-bottom: 30px;
+   background-repeat: no-repeat;
+   background-size: cover;
+   border-radius: 5px;
+}
+
+.sec_h .c2 p {
+   background: rgba(0, 0, 0, 0.74);
+   color: #fff;
+   padding: 30px; 
+   border-radius: 0px 0px 5px 5px ;
+}
+
+.sec_h .c5 {
+    background: #5B5A48; 
+    color: #fff;
+    padding: 10px;
+    width: 100px;
+    text-align: center;
+    border-radius: 3px;
+    float: right;
+    margin-top: -10px;
+    margin-right: -10px;
+}
+
+.sec_h .c4 {
+   padding-top: 144px;  
+
+}
+
+.sec_h .c3 {
+   height: 300px; 
+   background: url(../img/bg_sofa2.jpg);
+   margin-bottom: 10px;
+   background-repeat: no-repeat;
+   background-size: cover;
+   border-radius: 5px;
+}
+
+.sec_h h1{
+   color: #F7F7F7;
+    font-size: 4.5rem;
+    margin-bottom: -53px;
+
+}
+
+.sec_i{
+   background: url(../img/bg_img_01.jpg);
+   height: 500px;
+}
+
+.sec_i .c2{
+   background: url(../img/Coffee_13.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   height: 315px;
+   margin-top: 87px;
+    margin-right: 533px
+
+}
+
+.sec_i .c3{
+   background: url(../img/Coffee_14.jpg);
+    height: 315px;
+    margin-top: -315px;
+    /* margin-right: 448px; */
+    margin-left: 607px;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.sec_i .c2 h2{
+   text-align: center;
+   color: #fff;
+   font-size: revert;
+    margin-top: 74px;
+}
+
+.sec_i p{
+   color: rgb(243, 235, 235);
+   text-align: center;
+}
+
+.sec_i .c3 h5{
+   text-align: left;
+   margin-top: 20px;
+   color: #FFF;
+}
+
+.sec_i hr{
+   color: #fff;
+}
+
+
+/* @media (max-width:992px) {
+
+   .sec_h .c4 {
+   padding-top: 122px;   
+}
+} */

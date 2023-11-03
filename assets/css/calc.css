@@ -1,0 +1,294 @@
+body{
+  height: 1000px;
+}
+
+
+.sec_a{
+  background:#C4DF9C;
+  height: 100px;
+  
+}
+
+.sec_a .c2{
+  padding: 15px;
+}
+
+.sec_a .c2 h5 {
+  text-transform: uppercase;
+  font-weight: 600;
+  color: black;
+  margin-right: 40px;
+  transition: all .3s ease-in-out;
+}
+
+.sec_a .c2 h5:hover {
+  color: #fff;
+  cursor: pointer;
+  background: #2E845F;
+  border-radius: 30px 90px 30px 30px;    
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  
+}
+
+.sec_b{
+  text-align: center;
+  margin-top: 100px;
+ 
+}
+
+.sec_b h1 {
+  font-weight: bold;
+  color: #2E845F;
+}
+
+.sec_b h2{
+  color: #48B768;
+}
+
+/* .sec_c .c1{
+  height: 500px;
+  background: #DFEDCA;
+  margin-top: 200px;
+  
+} */
+
+.sec_c .c1{
+  background: url(../img/tree2.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  /* width: 80px; */
+  height: 517px;
+
+}
+
+.sec_c .c2{
+  /* background: green; */
+  height: 400px;
+  background: rgba(182, 241, 104, 0.404);
+  padding: 40px;
+  margin-top: 200px;
+}
+
+.sec_c .r2{
+  margin-left: 20px;
+}
+
+.sec_c .c4{
+  background: url(../img/tree02.jpg);
+}
+
+.sec_c .c5{
+  background: url(../img/tree002.png);
+  height: 274px;
+  background-position: top;
+  background-size: cover;
+  margin-top: -438px;
+  margin-right: 399px;
+  margin-left: 325px;
+  transform: rotate(57deg);
+}
+
+.sec_c .c6{
+  background: url(../img/leaf1.png);
+  height: 713px;
+  /* background-repeat: no-repeat; */
+  margin-top: -442px;
+  margin-right: 399px;
+  margin-left: 717px;
+  background-position: top;
+}
+
+
+.sec_d{
+  margin-top: 89px;
+}
+
+.sec_d h2{
+  text-align: center;
+  margin-top: 154px;
+  font-weight: bold;
+  color: #2E845F;
+}
+
+.sec_d .c2{
+  background: #C4DF9C;
+  height: 306px;
+  margin: 20px;
+}
+
+.sec_d #id1{
+  color: #3E7F54;
+  font-size: 63px;
+    /* margin-bottom: 28px; */
+    /* margin-right: 51px; */
+    margin-top: 65px;
+    margin-left: 116px;
+     
+}
+
+.sec_d h2{
+  font-size: 63px;
+  margin-top: 33px;
+  margin-left: -3px;
+}
+
+
+.sec_e .row{
+  text-align: center;
+} 
+
+.sec_f .r1{
+  height: 500px;
+  background: rgba(218, 250, 174, 0.767);
+  margin-top: 60px;
+  
+ 
+}
+
+.sec_f .btn1{
+  width: 200px;
+  background: black;
+  height: 60px;
+  margin: 10px;
+  border: none;
+  color: #fff;
+  border: none;
+  margin-right: 333px;
+
+}
+
+.sec_f .btn2{
+width: 200px;
+  background: black;
+  height: 60px;
+  margin: 10px;
+  border: none;
+  color: #fff;
+  border: none;
+  position: absolute;
+  margin-left: -312px;
+}
+
+.sec_f .btn{
+  border: none;
+  
+}
+
+.sec_f .c1{
+  margin-top: 100px;
+}
+
+.sec_f .c2{
+  background: url(../img/phone1.png);
+  height: 500px;
+  background-repeat: no-repeat;
+  margin-left: 223px;
+  
+}
+
+.sec_f .c1 h2{
+  color: #245D32;
+  font-weight: bolder;
+}
+
+.sec_g {
+  background: #ADC489;
+  height: 100px;
+}
+
+.sec_g .c1{
+  margin-top: 20px;
+}
+
+.sec_g .c2{
+  margin-top: -60px;
+  
+}
+
+.sec_g #id1{
+  font-size: 27px;
+  margin: 7px;
+  color: black;
+  
+}
+
+.sec_g .r1{
+  color: black;
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .sec_a {
+    width: 350px;  
+    padding: 20px;  
+    background: rgb(31, 29, 29);
+    color: #fff;
+    margin-top: 20px;
+    margin-bottom: 800px;
+    height: 600px;
+    border-radius: 40px;
+    box-shadow: 4px  4px 4px rgb(126, 120, 120);
+    margin-left: 300px;
+}
+
+.sec_a h1 {
+    margin-bottom: 150px;
+  } */
+
+  /* .sec_a .r1 {    
+    color: rgb(241, 0, 0);  
+  } */
+/* 
+  .sec_a .c1 {
+    background: #fff;
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    box-shadow: -1px -1px 3px rgb(245, 243, 243);
+    text-align: center;
+
+  }
+
+  .sec_a .c1:hover {
+    cursor: pointer;
+    transform: scale(1.1); 
+    transition: all .5s;  
+  }
+
+  .sec_a .c2 {
+    color: orangered;
+  }
+
+  .sec_a .c3 {
+    background: #fff;
+    color: rgb(0, 0, 0);
+  } */
+
+  /* .sec_a input {
+    background: none;
+    border: none;
+    color: rgb(212, 0, 142);
+    margin-left: 5px;
+  } */
+
+  /* .sec_a input:hover {
+    cursor: pointer;
+  } */

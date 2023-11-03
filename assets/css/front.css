@@ -1,0 +1,599 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Cormorant+SC&family=Mochiy+Pop+One&display=swap'); */
+
+@font-face {
+    font-family: 'shweta';
+    src: url('../webfonts/MochiyPopOne-Regular.ttf');
+}
+
+
+* {
+    --color1:#293E4C;
+    --color2:#BFD1E9;
+    --color3:#34CC67;
+    --color4:#339967;
+}
+
+body{
+   
+    height: 5000px;
+    font-family: sans-serif;  
+    
+}
+
+.sec_a{
+    color: #fff;
+    background: linear-gradient(to right, var(--color1), var(--color2));
+
+}
+
+.sec_a .col{
+    padding: 30px;
+    text-align: center;
+}
+
+.sec_a .c1{
+    background: var(--color3);
+}
+
+.sec_a .c2{
+    background: var(--color4);
+}
+
+.sec_a #id1{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.sec_a h1{
+    margin-top: 20px;
+}
+
+.sec_a a {
+    text-decoration: none;
+    color: #fff;
+}
+
+
+.sec_slide{
+    background: linear-gradient(to right, var(--color1), var(--color2));
+    background-repeat: no-repeat;
+    color: #fff;
+    height: 450px;
+   
+}
+
+
+
+.sec_slide img {    
+    height: 300px;
+}
+
+.sec_slide .img1 {
+   margin-top: 40px;
+}
+
+.sec_slide .img2 {
+    margin-top: 40px;
+    margin-left: 40px;
+ }
+
+.sec_slide .c2{
+    padding: 100px;
+    
+}
+
+.carousel-indicators button{
+    background: #fff;
+  
+    
+}
+
+.sec_b {
+    background:#4A4B5D;
+}
+
+.sec_b {
+    border-top:2px solid #fff;
+    color: #fff;
+}
+
+.sec_b .c2 {    
+    font-weight: lighter;
+    font-size: 24px;
+    letter-spacing: 3px;
+}
+
+.sec_c .c1{
+    text-align: center;
+}
+
+.sec_c h2 {
+    font-family: 'shweta';
+}
+
+.sec_c .c2{
+    margin: 50px;
+   
+}
+
+.sec_c #id1{
+    font-size: 60px;
+    margin-bottom: 10px;
+    color: #4DD279;
+}
+
+.sec_c .col{
+    font-size: larger;
+    
+
+}
+
+.sec_c p {
+    color: rgb(156, 156, 156);
+    font-size: 14px;
+    text-align: center;
+    font-weight: 100;
+   
+}
+
+.sec_c {
+    text-align: center;
+}
+
+.sec_d {
+    padding-top: 80px;
+    text-align: center;
+}
+
+.sec_d h1{
+    line-height: 5px;
+    
+    
+}
+
+.sec_d hr {
+    margin-top: 60px;
+}
+
+.sec_e .c1{
+    text-align: center;
+    letter-spacing: 2px;
+    word-spacing: 50px;
+    font-weight: 500;
+    
+}
+
+.sec_e .c2{
+    background: url(../img/argo01.jpg);
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 50px;    
+}
+
+.sec_f {
+    background: url(../img/dark-wall-empty-room-with-plants-floor-3d-rendering.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+.sec_f .c1{
+    text-align: center;  
+    
+}
+
+.sec_f .c2{
+    backdrop-filter: brightness(.5);
+    
+}
+
+.sec_f .btn{    
+    color: #fff;
+    font-weight: 600;
+    border-radius: 0px;
+}
+
+.sec_f .btn1 {
+    background: #34CA69;
+}
+
+.sec_f h2{
+    margin: 100px;
+    color: #fff;
+}
+
+
+.sec_g{
+    text-align: center;
+   
+}
+
+.sec_g p{
+    font-weight: 400;
+}
+
+.sec_g h2{
+    font-weight: bold;
+   
+   
+}
+
+
+.sec_g .r1{
+    text-align: center;
+}
+
+.sec_g .progress{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 0px;
+    height: 30px;
+}
+
+.sec_g .progress-bar {
+    background: #34CC67;
+    text-align: left;
+    font-size: large;
+    font-weight: 500; 
+    
+}
+
+.sec_g .progress-bar p {
+    margin-top: 18px;
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+
+.sec_h p {
+    padding: 30px;
+}
+
+.sec_h h3{
+    margin: 50px;
+    font-weight: 700;
+   
+    
+}
+
+.sec_h .c3{
+    
+    padding: 20px;
+    padding-top: 40px;
+    margin-bottom: 30px;
+  
+ }
+
+ .sec_h .c4{
+    background: #339967;
+    padding: 20px;
+    padding-top: 40px;
+    margin-bottom: 30px;
+    
+ }
+
+ .sec_h .c5{
+    background: yellow;
+    padding: 20px;
+    padding-top: 40px;
+    margin-bottom: 30px;
+   
+ }
+ 
+.sec_h .c2{
+    background: rgb(204, 204, 204);
+    margin-bottom: 30px;
+   padding: 0px;
+   display: inline-flex;
+   color: rgb(77, 77, 77);
+ }
+
+ .sec_h .w1 {
+    width: 30%;
+   
+ }
+
+ .sec_h .img1 {
+    
+    background: url(../img/girls_00.jpg);
+    background-position: right -70px top;
+    
+ }
+
+ .sec_h .img2 {
+    background: url(../img/girls_01.jpg);
+    background-position: right -70px top;
+ }
+
+ .sec_h .img3 {
+    background: url(../img/girls_02.jpg);
+    background-position: right -100px top;
+ }
+
+ .sec_h .img4 {
+    background: url(../img/girls_04.jpg);
+    background-position: right -25px top;
+ }
+
+ .sec_h .img {       
+    background-size: cover;
+    background-repeat: no-repeat;    
+ }
+
+
+ .sec_h .w2 {
+    width: 70%;
+ }
+
+ .sec_h .icon{
+    display: inline-flex;
+    height: 50px;
+    position: absolute;
+    margin-top: -50px;
+ }
+
+ .sec_h .icon1{
+    width: 50px;
+    background: #355B9C;
+ }
+
+ .sec_h .icon2{
+    width: 50px;
+    background:#0D8AC4;
+ }
+
+ .sec_i .c1{
+    text-align: center;
+ }
+
+ .sec_h #id1{
+    color: #fff;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+ }
+
+ .sec_h #id2{
+    color: #fff;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+ }
+
+ .sec_i .c2{
+    background: url(../img/office1.jpg);
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    backdrop-filter: brightness(.5);
+ }
+
+ .sec_i .progress{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 0px;
+    height: 20px;
+ }
+
+ .sec_i .progress-bar {
+    background: #34CC67;
+    margin-left: -20px;
+    
+ }
+
+ .sec_j {
+    background: url(../img/Coffee_15.jpg);
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    text-align: center;
+    color: #fff;
+    
+ }
+
+ 
+
+ .sec_j h2{
+    
+    margin: 60px;
+    font-weight: bold;
+    
+ }
+
+ .sec_j p{
+    line-height: 10px;
+ }
+
+ .sec_j hr{
+    margin-top: 100px;
+ }
+
+ .sec_k {
+    border-radius: 2px soild gray;
+    margin-top: 50px;
+    
+    text-align: center;
+   
+    
+ }
+
+ .sec_k h1{
+    font-weight: bold;
+    word-spacing: 20px;
+    letter-spacing: 2px;
+    line-height: 10px;
+ }
+
+
+
+ .sec_k .r1{
+    margin: 80px;
+ }
+
+ .sec_k h2{
+    font-weight: bold;
+ }
+
+
+ .sec_k .icon{
+    display: inline-flex;
+    height: 50px;
+    position: absolute;
+    
+  
+ }
+
+ .sec_k .icon1{
+    width: 50px;
+    background: #355B9C;
+    margin-left: -270px;
+   
+ }
+
+ .sec_k .icon2{
+    width: 50px;
+    background:#0D8AC4;
+ }
+
+ .sec_k #id1{
+    color: #fff;
+    font-size: 30px;
+    margin-top: 10px;
+ }
+
+ .sec_k #id2{
+    color: #fff;
+    font-size: 30px;
+    margin-top: 10px;
+ }
+
+ 
+
+ .sec_k .r1 p{
+    text-align: left;
+    line-height: 10px;
+    color: gray;
+ }
+
+ .sec_k .r2 .p1{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    
+}
+
+ .sec_k textarea{
+    background: #CCCCCC;
+    border: none;
+    margin-top: 20px;
+    width: 100%;
+    border-radius: 0px;
+ }
+
+ .sec_k input{
+    height: 50px;
+    background: #CCCCCC;
+    border: none;
+    margin-top: 20px;
+    border-radius: 0px;
+ }
+
+ .sec_k input::placeholder, .sec_k textarea::placeholder{
+    color: #fff;
+    margin-top: 18px;
+    margin-left: 20px;
+    font-weight: 600;
+ }
+
+ .sec_k button{
+    border-radius: 0px;
+    margin-top: 20px;
+    background:#34CC67;
+    height: 90px;
+    width: 100%;
+ }
+
+ 
+ 
+
+ iframe{
+    width: 100%;
+    height: 490px;
+    
+ }
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* * {
+    --color1:#34CC67;
+    --color2:#339967;
+}
+
+.my_nav {
+    margin-left: 100px;
+}
+
+
+.my_nav .c1{
+    background: var(--color1);
+    color: #fff;
+    padding: 50px;
+    text-align: center;
+}
+
+
+.my_nav .c2{
+    background: var(--color2);
+    color: #fff;
+    padding: 50px;
+    text-align: center;
+}
+
+  @media (min-width:992px) {
+    .c_hidden{
+        display: none;
+    }
+
+
+    .my_nav .row{
+        background: yellow;
+        padding-left: 150px;
+    }
+
+} 
+      
+
+@media(max-width:768px){
+    .c_hiddden2{
+        display: none;
+    }
+}    */
+
+
+
+
+

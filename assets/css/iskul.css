@@ -1,0 +1,286 @@
+body{
+    height: 3000px;
+}
+
+.sec_a {
+    background: #011E4A;
+}
+
+.sec_a .c1{
+    color: #fff;
+}
+
+.sec_a .c1 span{
+    color: #fff;
+    
+    margin-right: 40px;
+}
+
+.sec_a .c2 span{
+    color: #fff;
+    margin-left:50px ;
+}
+
+.sec_a .c2 span {
+    transition: all .3s ease-in-out;
+  }
+  
+  .sec_a .c2 span:hover {
+    color: #fff;
+    cursor: pointer;
+    background: #104799;
+    border-radius: 5px 5px 5px 5px;    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+.sec_b{
+    background: #FFFFFF;
+    
+}
+
+.sec_b .c1 h3{
+    color: black;
+    /* text-transform: uppercase;
+    font-weight: 400; */
+    font-weight: bold;
+    margin-right: 40px;
+}
+
+.sec_b .c2 span{
+    color: black;
+    margin-left:50px ;
+}
+
+.sec_b .c2 span {
+    transition: all .3s ease-in-out;
+  }
+  
+  .sec_b .c2 span:hover {
+    color: #fff;
+    cursor: pointer;
+    background: gray;
+    border-radius: 5px 5px 5px 5px;    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+
+.sec_c{
+    background: url(../img/student1.jpg);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: drop-shadow(2px 4px 6px black);
+    background-position: center;
+}
+
+.sec_c h1{
+    color: #fff;
+    text-align: center;
+    margin-top: 80px;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 70px;
+}
+
+.sec_c p{
+    color: #fff;
+    text-align: center;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sec_c h6{
+    color: yellow;
+    margin-top: 90px;
+    font-size: small;
+}
+
+
+.sec_c .btn1{
+    background: #E8522D;
+    border: none;
+    height: 45px;
+    width: 144px;
+    margin-top: 41px;
+    margin-left: 476px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.sec_d .r1{
+    background: #031F46;
+    height: 98px;
+    margin-top: 60px;
+    filter: drop-shadow(2px 4px 6px black);
+}
+
+.sec_d .form-select{
+    width: 293px;
+    margin-top: 28px;
+}
+
+.sec_d .btn1{
+    background: #F9A608;
+    color: #fff;
+    margin-top: 27px;
+    height: 38px;
+    width: 142px;
+}
+
+
+.sec_e{
+    margin-top: 90px;
+}
+
+ .sec_e h6{
+    color: red;
+}
+
+.sec_e .c1{
+    margin-top: 40px;
+}
+
+.sec_e .c2{
+    background: #FFFFFF;
+    filter: drop-shadow(2px 4px 6px rgb(233, 226, 226));
+    height: 55px;
+    width: 323px;
+    margin-top: 22px;
+}
+
+.sec_e .c2 #id1{
+    color: goldenrod;
+    margin-top: 20px;
+    
+}
+
+.sec_e .c2 #id2{
+    color: red;
+    margin-left: 102px;
+    
+}
+
+.sec_e .icon1{
+    background: #EA4E1E;
+    margin-top: -211px;
+    margin-left: 248px;
+    width: 71px;
+    height: 50px;
+    border-radius: 32px 2px 2px 32px;
+ }
+
+ .sec_e .icon{
+    display: inline-flex;
+    height: 50px;
+    position: absolute;
+    margin-top: -50px;
+ }
+ .sec_e .icon1 p{
+    color: #fff;
+    margin-left: 22px;
+    margin-top: 10px;
+ }
+
+ .sec_f{
+    margin-top: 100px;
+    margin-left: 573px;
+ }
+
+.sec_g{
+    background: #011E48;
+    height: 500px;
+    margin-top: 100px;
+}
+
+.sec_g h1{
+    color: #fff;
+    margin-top: 82px;
+}
+
+.sec_g p{
+    color: #fff;
+    margin-top: 34px;
+}
+
+
+.sec_g h2{
+    color: #fff;
+    margin-top: 48px;
+}
+
+.sec_g .btn1{
+    background: #fff;
+    height: 66px;
+    width: 340px;
+    border: none;
+    border-radius: 46px 46px 46px 46px;
+}
+
+.sec_g .btn1 span{
+   
+    margin-right: 185px;
+}
+
+.sec_g .icon1{
+    background: #F3A908;
+    height: 64px;
+    border-radius: 180px 180px 173px 173px;
+    width: 106px;
+    margin-left: -106px;
+    margin-top: 51px;
+}
+
+.sec_g .icon{
+    display: inline-flex;
+    height: 50px;
+    position: absolute;
+    margin-top: -50px;
+ }
+
+ .sec_g #id1{
+    
+    color: #fff;
+    font-size: 30px;
+    margin-left: 38px;
+    margin-top: 18px;
+ }
+
+ .sec_g .c2{
+    margin-top: 82px;
+    color: #fff;
+    margin-left: 60px;
+ }
+    
+ .sec_g span{
+    margin: 20px;
+ }
+
+ .sec_g .c3{
+    margin-top: 110px;
+    color: #fff;
+    margin-left: -287px;
+ }
+
+ .sec_g .c4{
+    margin-top: 82px;
+    color: #fff;
+   line-height: 20px;
+ }
+
+ .sec_g .c4 h6{
+    line-height: 63px;
+
+ }
+    
+ .sec_g .c6 p{
+    text-align: center;
+ }
+
+
+
+ 
